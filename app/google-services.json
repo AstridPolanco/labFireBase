@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242974864883",
+    "project_id": "proyectolab-94ecc",
+    "storage_bucket": "proyectolab-94ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242974864883:android:1b6eaf49e36da0e7c88e86",
+        "android_client_info": {
+          "package_name": "com.miumg.clasefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkKO2MjyoYIK7CnLS4ioWctUCeeD4WDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
